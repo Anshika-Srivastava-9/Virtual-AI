@@ -1,0 +1,6 @@
+pyttsx3
+SpeechRecognition
+openai
+# Optional (microphone backend). On Linux, install system packages and either 'pyaudio' or 'sounddevice'.
+# pyinstaller is useful for packaging:
+pyinstaller
